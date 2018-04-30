@@ -419,7 +419,7 @@ in your form:</strong>' . $error . '</div>';
                 <div class="grid">
                     <div class="row">
                         <div class="element-item transition alkali metal col-sm-4 col-xs-6 nopadding " data-category="transition">
-                            <a href="rankandrentwebsite/idex.php"><img src="images/rankandrent.png" alt="portfolio-1" /></a>
+                            <a href="rankandrentwebsite/index.php"><img src="images/rankandrent.png" alt="portfolio-1" /></a>
                         </div>
                         <div class="element-item metalloid alkali transition col-sm-4 col-xs-6 nopadding" data-category="metalloid ">
                             <a href="http://www.revolutionweb.co.za/lindsey/accountantwebsite" ><img src="images/accounts.png" alt="portfolio-2" /></a>
